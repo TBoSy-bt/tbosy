@@ -1,0 +1,6 @@
+[project]
+name = "tbosy"
+version = "1.0.0"
+
+[project.scripts]
+app = "main:app"
