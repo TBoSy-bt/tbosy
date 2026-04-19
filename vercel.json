@@ -11,11 +11,4 @@
       "dest": "main.py"
     }
   ]
-}{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/api/index.py"
-    }
-  ]
 }
